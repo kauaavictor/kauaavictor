@@ -4,7 +4,7 @@
 
 Me chamo Kauã
 
-Estou estudando na [Alura] (https://www.allura.com.br)
+Estou estudando na [Alura](https://www.allura.com.br)
 
 Estou me desenvolvendo na linguagem JavaScript
 
